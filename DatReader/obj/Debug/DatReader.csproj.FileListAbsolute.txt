@@ -1,0 +1,7 @@
+C:\Users\BOK\source\repos\DatReader\DatReader\bin\Debug\DatReader.exe.config
+C:\Users\BOK\source\repos\DatReader\DatReader\bin\Debug\DatReader.exe
+C:\Users\BOK\source\repos\DatReader\DatReader\bin\Debug\DatReader.pdb
+C:\Users\BOK\source\repos\DatReader\DatReader\obj\Debug\DatReader.csproj.AssemblyReference.cache
+C:\Users\BOK\source\repos\DatReader\DatReader\obj\Debug\DatReader.csproj.CoreCompileInputs.cache
+C:\Users\BOK\source\repos\DatReader\DatReader\obj\Debug\DatReader.exe
+C:\Users\BOK\source\repos\DatReader\DatReader\obj\Debug\DatReader.pdb
